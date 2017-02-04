@@ -1,0 +1,33 @@
+body {
+	background-color: #aabdc1;
+	font-family: Avenir;
+	font-size: 11px;
+	color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h1 {
+	background-color: white;
+	color: #aabdc1;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	border-top-style: hidden;
+	border-right-style: hidden;
+	border-left-style: hidden;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-color: white;
+}
+
+.subheading {
+	font-weight: bold;
+	font-size: 13px;
+}
+
+p {
+	font-size: 11px;
+}
